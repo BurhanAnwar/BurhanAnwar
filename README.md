@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I'm Muhammad Burhan Ud Din</h1>
 
 <p align="center">
-  🎓 Data Science Graduate &nbsp;|&nbsp; 📊 Data Analyst & Engineer &nbsp;|&nbsp; 🧠 AI Enthusiast  
+  🎓 Data Scientist &nbsp;|&nbsp; 📊 Data Analyst & Engineer &nbsp;|&nbsp; 🧠 AI Enthusiast  
 </p>
 
 <p align="center">
-  💼 Interned at <strong>HBL Headquarters</strong> & <strong>Dubizzle Labs</strong>  
+  💼 Working at <strong>HBL MfB Headquarters</strong> & <strong>Dubizzle Labs</strong>  
   &nbsp;|&nbsp; 🇵🇰 Based in Pakistan
 </p>
 
@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a data science graduate passionate about solving real-world problems using data. My experience includes:
+I'm a data scientist passionate about solving real-world problems using data. My experience includes:
 
 - 🔍 **Data Science Intern** at **HBL Headquarters** – built interactive dashboards and engineered features from financial datasets.
 - 🔧 **Data Engineer Intern** at **Dubizzle Labs** – extracted real-time competitor data and contributed to pricing and UX optimization strategies.
