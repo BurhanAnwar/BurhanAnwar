@@ -5,21 +5,21 @@
 </p>
 
 <p align="center">
-  💼 Senior Growth & Analytics Officer (Data Scientist) at <strong>HBL MfB Headquarters</strong>[span_0](start_span)[span_0](end_span)  
-  &nbsp;|&nbsp; 🇵🇰 Based in Pakistan[span_1](start_span)[span_1](end_span)
+  💼 Senior Growth & Analytics Officer (Data Scientist) at <strong>HBL MfB Headquarters</strong>  
+  &nbsp;|&nbsp; 🇵🇰 Based in Pakistan
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a Data Scientist with professional experience in Growth Analytics, Customer Intelligence, ML/AI, and Data Engineering[span_2](start_span)[span_2](end_span). My experience includes:
+I'm a Data Scientist with professional experience in Growth Analytics, Customer Intelligence, ML/AI, and Data Engineering. My experience includes:
 
-- 📊 **Senior Growth & Analytics Officer (Data Scientist)** at **HBL MfB Headquarters** – developing multiclass churn prediction engines, real-time customer journey dashboards, and driving deposit portfolio growth[span_3](start_span)[span_3](end_span).
-- 🤖 **AI Engineer (Contractual)** for FinTech Client – engineered and deployed FinQuery Bot (RAG system) using LangChain, Vector DBs, and FastAPI for real-time financial document querying[span_4](start_span)[span_4](end_span).
-- 🔧 **Data Engineer Intern** at **Dubizzle Labs** – built data extraction workflows for competitive intelligence and pricing optimization strategies[span_5](start_span)[span_5](end_span).
-- 🔍 **Data Science Intern** at **HBL MfB Headquarters** – analyzed loan datasets and created interactive Power BI dashboards[span_6](start_span)[span_6](end_span).
-- 🛡️ **Final Year Project** with **FAST-NUCES & Ebryx**: An AI-powered Threat Intelligence System for phishing detection and behavioral analysis[span_7](start_span)[span_7](end_span).
+- 📊 **Senior Growth & Analytics Officer (Data Scientist)** at **HBL MfB Headquarters** – developing multiclass churn prediction engines, real-time customer journey dashboards, and driving deposit portfolio growth.
+- 🤖 **AI Engineer (Contractual)** for FinTech Client – engineered and deployed FinQuery Bot (RAG system) using LangChain, Vector DBs, and FastAPI for real-time financial document querying.
+- 🔧 **Data Engineer Intern** at **Dubizzle Labs** – built data extraction workflows for competitive intelligence and pricing optimization strategies.
+- 🔍 **Data Science Intern** at **HBL MfB Headquarters** – analyzed loan datasets and created interactive Power BI dashboards.
+- 🛡️ **Final Year Project** with **FAST-NUCES & Ebryx**: An AI-powered Threat Intelligence System for phishing detection and behavioral analysis.
 
 ---
 
@@ -87,14 +87,14 @@ I'm a Data Scientist with professional experience in Growth Analytics, Customer 
 
 | 🚀 Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🎯 **AI Churn Mitigation Engine**[span_8](start_span)[span_8](end_span) | Multi-horizon churn prediction & automated retention logic[span_9](start_span)[span_9](end_span) | Python, Oracle SQL, ML[span_10](start_span)[span_10](end_span) |
-| 🤖 **FinQuery Bot**[span_11](start_span)[span_11](end_span) | RAG-based natural language querying for 10-Ks & financial docs[span_12](start_span)[span_12](end_span) | LangChain, Vector DB, FastAPI[span_13](start_span)[span_13](end_span) |
-| 🧠 **AI Threat Intelligence System**[span_14](start_span)[span_14](end_span) | Phishing detection & network attack analyzer[span_15](start_span)[span_15](end_span) | Python, Flask, TensorFlow, Scikit-learn[span_16](start_span)[span_16](end_span) |
-| 💰 **Loan Analysis Dashboard**[span_17](start_span)[span_17](end_span) | Financial dashboard for loan cycles and KPIs[span_18](start_span)[span_18](end_span) | Power BI, Excel[span_19](start_span)[span_19](end_span) |
-| 📊 **Real-Time Price Tracker**[span_20](start_span)[span_20](end_span) | API & web scraping competitor analysis tool[span_21](start_span)[span_21](end_span) | Python, Selenium, Scrapy, REST API[span_22](start_span)[span_22](end_span) |
-| 🎮 **Game Recommender**[span_23](start_span)[span_23](end_span) | Game recommendation engine using ML & NLP[span_24](start_span)[span_24](end_span) | Python, Scikit-learn[span_25](start_span)[span_25](end_span) |
+| 🎯 **AI Churn Mitigation Engine** | Multi-horizon churn prediction & automated retention logic | Python, Oracle SQL, ML |
+| 🤖 **FinQuery Bot** | RAG-based natural language querying for 10-Ks & financial docs | LangChain, Vector DB, FastAPI |
+| 🧠 **AI Threat Intelligence System** | Phishing detection & network attack analyzer | Python, Flask, TensorFlow, Scikit-learn |
+| 💰 **Loan Analysis Dashboard** | Financial dashboard for loan cycles and KPIs | Power BI, Excel |
+| 📊 **Real-Time Price Tracker** | API & web scraping competitor analysis tool | Python, Selenium, Scrapy, REST API |
+| 🎮 **Game Recommender** | Game recommendation engine using ML & NLP | Python, Scikit-learn |
 
-👉 **[Explore All Repositories](https://github.com/BurhanAnwar?tab=repositories)**[span_26](start_span)[span_26](end_span)
+👉 **[Explore All Repositories](https://github.com/BurhanAnwar?tab=repositories)**
 
 ---
 
@@ -106,8 +106,8 @@ I'm a Data Scientist with professional experience in Growth Analytics, Customer 
   <a href="https://github.com/BurhanAnwar"><img src="https://img.shields.io/badge/GitHub-BurhanAnwar-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-📄 [**View Resume (PDF)**](https://github.com/BurhanAnwar/portfolio-assets/blob/main/M_Burhanuddin_resume.pdf)[span_27](start_span)[span_27](end_span)
+📄 [**View Resume (PDF)**](https://github.com/BurhanAnwar/portfolio-assets/blob/main/M_Burhanuddin_resume.pdf)
 
 ---
 
-> 💡 *Always open to freelance work, and full-time opportunities in Data Science, Analytics, and AI/ML Engineering.*[span_28](start_span)[span_28](end_span)
+> 💡 *Always open to freelance work, and full-time opportunities in Data Science, Analytics, and AI/ML Engineering.*
