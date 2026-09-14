@@ -98,7 +98,7 @@ I'm a data scientist passionate about solving real-world problems using data. My
   <a href="https://github.com/BurhanAnwar"><img src="https://img.shields.io/badge/GitHub-BurhanAnwar-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-📄 [**View Resume (PDF)**](https://github.com/BurhanAnwar/portfolio-assets/blob/main/Muhammad_Burhan_Resume.pdf)
+📄 [**View Resume (PDF)**](https://github.com/BurhanAnwar/portfolio-assets/blob/main/M_Burhanuddin_resume.pdf)
 
 ---
 
